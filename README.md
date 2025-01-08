@@ -32,10 +32,10 @@
 
 ###
 
-<p align="left">Meu buddy é a Guilherme, um estudante de Ciência da Computação que está trilhando seu caminho no Inteli ao meu lado.</p>
+<p align="left">Meu buddy é o Guilherme, um estudante de Ciência da Computação que está trilhando seu caminho no Inteli ao meu lado.</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/DiegoSILV4/DiegoSILV4/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/diegofsiilva/diegofsiilva/output/snake.svg" alt="Snake animation" />
 
 ###
