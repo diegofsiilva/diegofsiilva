@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Meu buddy é a Guilherme, um estudante de Ciência da Computação que está trilhando seu caminho no Inteli ao meu lado.</p>
+<p align="left">Meu buddy é o Guilherme, um estudante de Ciência da Computação que está trilhando seu caminho no Inteli ao meu lado.</p>
 
 ###
 
