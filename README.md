@@ -25,7 +25,10 @@
 
 ###
 
-<p align="left">⚽️ Gosto muito de esportes<br>🎸 Sou músico<br>💻 Fiz um curso técnico de informática no CEAP</p>
+<p align="left">⚽️ Apaixnonado por futebol<br> 
+🏋️‍♂️ Gosto de Academia<br> 
+🎊 Adoro sair com os amigos<br> 
+💻 Curso técnico de informática no CEAP</p>
 
 ###
 
