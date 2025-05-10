@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">⚽️ Apaixnonado por futebol<br> 
+<p align="left">⚽️ Viciado em futebol<br> 
 🏋️‍♂️ Gosto de Academia<br> 
 🎊 Adoro sair com os amigos<br> 
 💻 Curso técnico de informática no CEAP</p>
