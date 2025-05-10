@@ -1,3 +1,5 @@
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <h1 align="left">Olá👋 Eu sou o Diego!</h1>
 
 ###
