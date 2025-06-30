@@ -36,7 +36,7 @@
 
 <h1 align="left">Meu Buddy</h1>
 
-###
+### 
 
 <p align="left">Meu buddy é o Guilherme, um estudante de Ciência da Computação que está trilhando seu caminho no Inteli ao meu lado.</p>
 
