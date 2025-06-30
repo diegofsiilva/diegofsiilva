@@ -31,7 +31,7 @@
 🏋️‍♂️ Gosto de Academia<br> 
 🎊 Adoro sair com os amigos<br> 
 💻 Curso técnico de informática no CEAP</p>
-
+ 
 ###
 
 <h1 align="left">Meu Buddy</h1>
