@@ -22,7 +22,7 @@
 ###
 
 <h1 align="left">Curiosidades</h1> 
-
+ 
 ###
 
 <p align="left">⚽️ Viciado em futebol<br> 
