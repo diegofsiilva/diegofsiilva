@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Olá, eu sou o Diego!</h1>
+<h1 align="center">Hey, I'm Diego!</h1>
 
 ###
 
