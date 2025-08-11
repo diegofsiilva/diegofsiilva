@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Computer Science student, contributing to academic and freelance projects focused on full-stack development. Currently building solutions with JavaScript, Node.js, PostgreSQL, and exploring AI-driven applications for real-world problems.<br><br>- 📚 I'm currently learning Machine Learning, diving into algorithms and practical applications to enhance my skills in creating intelligent, user-focused solutions.<br><br>- ⚡ In my free time I experiment with building intuitive web interfaces, participate in hackathons, and work on projects like task management apps to practice backend, frontend, and usability principles.</p>
+<p align="left">- 🔭 I’m working as a Computer Science student at Inteli, contributing to academic and freelance projects focused on full-stack development. Currently building solutions with JavaScript, Node.js, PostgreSQL<br><br>- 📚 I'm currently learning Machine Learning, diving into algorithms and practical applications to enhance my skills in creating intelligent, user-focused solutions.<br><br>- ⚡ In my free time I experiment with building intuitive web interfaces, participate in hackathons, and work on projects like task management apps to practice backend, frontend, and usability principles.</p>
 
 ###
 
