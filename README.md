@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🎯 Apaixonado por tecnologia, futebol, fórmula 1, café, etc.<br>💻 Atualmente estou estudando Ciência da Computação no Inteli.<br>🌱 Sempre aprendendo algo novo, e atualmente estou aprendendo sobre Grafos</p>
+<p align="left">🎯 Apaixonado por tecnologia, futebol, fórmula 1, etc.<br>💻 Atualmente estou estudando Ciência da Computação no Inteli.<br>🌱 Sempre aprendendo algo novo, e atualmente estou aprendendo sobre Grafos</p>
 
 ###
 
