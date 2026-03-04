@@ -59,9 +59,10 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegofsiilva&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegofsiilva&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofsiilva&layout=compact&theme=dark)
 
 </picture>
