@@ -11,6 +11,8 @@
   </a>
 </div>
 
+### Bachelor's in Computer Science
+*Inteli*
 
 ###
 
@@ -59,5 +61,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofsiilvalayout=compact&theme=dark)
+
 </picture>
