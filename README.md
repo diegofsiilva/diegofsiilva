@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎯 Passionate about technology, soccer, Formula 1, etc.<br>💻 Currently studying Computer Science at Inteli.<br>🌱 Always learning something new, and right now I’m learning about Graphs</p>
+<p align="left">🎯 Passionate about technology, soccer, Formula 1.<br>💻 Currently studying Computer Science at Inteli.<br>🌱 Always learning something new, and right now I’m learning about Graphs</p>
 
 ###
 
@@ -46,38 +46,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
+
 ## Companies I’ve developed projects for
 These are some of the companies and organizations I’ve created projects for as part of my portfolio.  
 
 <table align="center" style="margin: 0 auto; border-spacing: 16px; text-align: center;">
   <tr>
     <td style="text-align: center;">
+      <a href="#" target="_blank">
         <img src="https://eduqueseufilhote.com.br/wp-content/uploads/2025/05/icone-1.png" alt="Dr Pet" width="100"/>
       </a>
       <br>
-      <strong>Project:</strong> game
+      <strong>Project:</strong> Game
     </td>
     <td style="text-align: center;">
+      <a href="#" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" alt="Bayer" width="100"/>
       </a>
       <br>
-      <strong>Project:</strong> web <br>application
+      <strong>Project:</strong> Web Application
     </td>
     <td style="text-align: center;">
+      <a href="#" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfwwldXIxh5_e1JS2N7ZBV3eqt-AzNhwkSw&s" alt="Universidad EAFIT" width="100"/>
       </a>
       <br>
-      <strong>Project:</strong> predictive <br>model
+      <strong>Project:</strong> Predictive Model
     </td>
     <td style="text-align: center;">
       <a href="#" target="_blank">
         <img src="https://crystalpng.com/wp-content/uploads/2025/06/RENAULT-Logo-01.png" alt="Renault" width="100"/>
       </a>
       <br>
-      <strong>Project:</strong> IoT <br>model
+      <strong>Project:</strong> IoT Model
     </td>
-  <td style="text-align: center;">
-        <img src="https://github.com/user-attachments/assets/83418d8f-710e-44b5-9ac0-4cbbe84f1ab3" />
+    <td style="text-align: center;">
+      <a href="#" target="_blank">
+        <img src="https://github.com/user-attachments/assets/c3e6eb8b-6250-44a5-b59c-38858d418004" alt="Suzano" width="100"/>
       </a>
       <br>
       <strong>Project:</strong> Graphs
