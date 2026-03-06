@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Diego 👋</h1>
+<h1 align="center">Hey, I'm Diego 👋</h1>
 
 ###
 <div align="center">
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🎯 Apaixonado por tecnologia, futebol, fórmula 1, etc.<br>💻 Atualmente estou estudando Ciência da Computação no Inteli.<br>🌱 Sempre aprendendo algo novo, e atualmente estou aprendendo sobre Grafos</p>
+<p align="left">🎯 Passionate about technology, soccer, Formula 1, etc.<br>💻 Currently studying Computer Science at Inteli.<br>🌱 Always learning something new, and right now I’m learning about Graphs</p>
 
 ###
 
