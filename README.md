@@ -54,10 +54,10 @@ These are some of the companies and organizations I’ve created projects for as
   <tr>
     <td style="text-align: center;">
       <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/ac905d16-fbef-4776-8880-9e89d94c86c7" alt="Verde Asset" width="100"/>
+        <img src="https://github.com/user-attachments/assets/d45159dd-b63c-4c38-b196-73948511a597" alt="Verde Asset" width="100"/>
       </a>
       <br>
-      <strong>Project:</strong>lead generation page
+      <strong>Project:</strong> Lead generation page
     </td>
     <td style="text-align: center;">
       <a href="#" target="_blank">
