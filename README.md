@@ -54,6 +54,13 @@ These are some of the companies and organizations I’ve created projects for as
   <tr>
     <td style="text-align: center;">
       <a href="#" target="_blank">
+        <img src="https://github.com/user-attachments/assets/98107e25-c84d-4093-85c6-6621361233f7" alt="Verde Asset" width="100"/>
+      </a>
+      <br>
+      <strong>Project:</strong>lead generation page
+    </td>
+    <td style="text-align: center;">
+      <a href="#" target="_blank">
         <img src="https://eduqueseufilhote.com.br/wp-content/uploads/2025/05/icone-1.png" alt="Dr Pet" width="100"/>
       </a>
       <br>
