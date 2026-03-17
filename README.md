@@ -62,11 +62,10 @@ These are some of the companies and organizations I’ve created projects for as
     </td>
     <td style="text-align: center;">
       <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/f13cb3e8-b35c-4a63-abba-655d6668f6f0" alt="Verde Asset" width="100"/>
+        <img src="https://github.com/user-attachments/assets/f13cb3e8-b35c-4a63-abba-655d6668f6f0" alt="Verde Asset" width="90"/>
       </a>
       <br>
-      <strong>Project:</strong> Lead generation page
-    </td>
+      <strong>Project:</strong> Lead page</td>
     <td style="text-align: center;">
       <a href="#" target="_blank">
         <img src="https://eduqueseufilhote.com.br/wp-content/uploads/2025/05/icone-1.png" alt="Dr Pet" width="100"/>
