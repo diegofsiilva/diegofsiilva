@@ -101,8 +101,23 @@ These are some of the companies and organizations I’ve created projects for as
       <br>
       <strong>Project:</strong> Graphs
     </td>
+    <td style="text-align: center;">
+      <a href="#" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3dd11100-8e53-4bca-ad58-0c7c48a57f23" alt="Suzano" width="100"/>
+      </a>
+      <br>
+      <strong>Project:</strong> Algorythms
+    </td>
+
+
+
+  
+
+  
   </tr>
 </table>
+
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
