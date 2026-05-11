@@ -11,11 +11,9 @@
 ### Bachelor's in Computer Science
 
 ###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
 <p align="left">🎯 Passionate about technology, soccer, Formula 1.<br>💻 Currently studying Computer Science at Inteli.<br>🌱 Always learning something new, and right now I’m learning about Graphs</p>
 
 ###
