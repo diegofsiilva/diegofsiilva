@@ -102,11 +102,6 @@ These are some of the companies and organizations I’ve created projects for as
       <strong>Project:</strong> Algorythms
     </td>
 
-
-
-  
-
-  
   </tr>
 </table>
 
