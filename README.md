@@ -8,7 +8,6 @@
   </a>
 </div>
 
-
 ### Bachelor's in Computer Science
 
 ###
