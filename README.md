@@ -106,8 +106,6 @@ These are some of the companies and organizations I’ve created projects for as
   </tr>
 </table>
 
-
-
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
