@@ -112,3 +112,4 @@ These are some of the companies and organizations I’ve created projects for as
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegofsiilva&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegofsiilva&theme=radical" />
 </div>
+
