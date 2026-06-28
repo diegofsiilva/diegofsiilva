@@ -1,6 +1,7 @@
 # Hey, I'm Diego
 ### Bachelor's in Computer Science
 
+
 ###
 # 💫 About Me:
 🎯 Passionate about technology, soccer, Formula 1.<br>💻 Currently studying Computer Science at Inteli.<br>🌱 Always learning something new, and right now I’m learning about Optimization
