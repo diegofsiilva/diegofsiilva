@@ -11,63 +11,55 @@
 
 ## Companies I’ve developed projects for
 These are some of the companies and organizations I’ve created projects for as part of my portfolio.  
+<table align="center">
+<tr>
 
-<table align="center" style="margin: 0 auto; border-spacing: 16px; text-align: center;">
-  <tr>
-    <td style="text-align: center;">
-      <a href="#" target="_blank">
-        <img src="IMG_0047.jpg" alt="Verde Asset" width="100"/>
-      </a>
-      <br>
-      <strong>Project:</strong> Security
-    </td>
-    <td style="text-align: center;">
-      <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/f13cb3e8-b35c-4a63-abba-655d6668f6f0" alt="Verde Asset" width="90"/>
-      </a>
-      <br>
-      <strong>Project:</strong> Lead page</td>
-    <td style="text-align: center;">
-      <a href="#" target="_blank">
-        <img src="https://eduqueseufilhote.com.br/wp-content/uploads/2025/05/icone-1.png" alt="Dr Pet" width="100"/>
-      </a>
-      <br>
-      <strong>Project:</strong> Game
-    </td>
-    <td style="text-align: center;">
-      <a href="#" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" alt="Bayer" width="100"/>
-      </a>
-      <br>
-      <strong>Project:</strong> Web Application
-    </td>
-    <td style="text-align: center;">
-      <a href="#" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfwwldXIxh5_e1JS2N7ZBV3eqt-AzNhwkSw&s" alt="Universidad EAFIT" width="100"/>
-      </a>
-      <br>
-      <strong>Project:</strong> Predictive Model
-    </td>
-    <td style="text-align: center;">
-      <a href="#" target="_blank">
-        <img src="https://crystalpng.com/wp-content/uploads/2025/06/RENAULT-Logo-01.png" alt="Renault" width="100"/>
-      </a>
-      <br>
-      <strong>Project:</strong> IoT Model
-    </td>
-    <td style="text-align: center;">
-      <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/c3e6eb8b-6250-44a5-b59c-38858d418004" alt="Suzano" width="100"/>
-      </a>
-      <br>
-      <strong>Project:</strong> Graphs
-    </td>
-    <td style="text-align: center;">
-      <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/3dd11100-8e53-4bca-ad58-0c7c48a57f23" alt="Suzano" width="100"/>
-      </a>
-      <br>
-      <strong>Project:</strong> Algorythms
-    </td>
-  </tr>
+<td align="center" width="140">
+<img src="IMG_0047.jpg" width="100" height="100"><br><br>
+<b>Project:</b><br>Security
+</td>
+
+<td align="center" width="140">
+<img src="https://github.com/user-attachments/assets/f13cb3e8-b35c-4a63-abba-655d6668f6f0" width="100" height="100"><br><br>
+<b>Project:</b><br>Lead Page
+</td>
+
+<td align="center" width="140">
+<img src="https://eduqueseufilhote.com.br/wp-content/uploads/2025/05/icone-1.png" width="100" height="100"><br><br>
+<b>Project:</b><br>Game
+</td>
+
+<td align="center" width="140">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" width="100" height="100"><br><br>
+<b>Project:</b><br>Web Application
+</td>
+
+<td align="center" width="140">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfwwldXIxh5_e1JS2N7ZBV3eqt-AzNhwkSw&s" width="100" height="100"><br><br>
+<b>Project:</b><br>Predictive Model
+</td>
+
+<td align="center" width="140">
+<img src="https://github.com/user-attachments/assets/2bfe5019-5a8b-4815-bab8-783b7cdf7a8c" width="100" height="100"><br><br>
+<b>Project:</b><br>IoT Model
+</td>
+
+<td align="center" width="140">
+<img src="https://github.com/user-attachments/assets/c3e6eb8b-6250-44a5-b59c-38858d418004" width="100" height="100"><br><br>
+<b>Project:</b><br>Graphs
+</td>
+
+<td align="center" width="140">
+<img src="https://github.com/user-attachments/assets/3dd11100-8e53-4bca-ad58-0c7c48a57f23" width="100" height="100"><br><br>
+<b>Project:</b><br>Algorithms
+</td>
+
+<td align="center" width="140">
+<img src="arton13446.png" width="100" height="100"><br><br>
+<b>Project:</b><br>Machine Learning Research
+</td>
+
+</tr>
 </table>
+
+
