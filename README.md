@@ -57,7 +57,7 @@ These are some of the companies and organizations I’ve created projects for as
 
 <td align="center" width="140">
 <img src="arton13446.png" width="100" height="100"><br><br>
-<b>Project:</b><br>Machine Learning Research
+<b>Project:</b><br>ML Research
 </td>
 
 </tr>
