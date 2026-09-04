@@ -56,6 +56,11 @@ These are some of the companies and organizations I’ve created projects for as
 </td>
 
 <td align="center" width="140">
+<img src="https://github.com/user-attachments/assets/3548814e-2e68-41ab-b39d-22ccb12c49de" width="100" height="100"><br><br>
+<b>Project:</b><br>AWS Project
+</td>
+
+<td align="center" width="140">
 <img src="arton13446.png" width="100" height="100"><br><br>
 <b>Project:</b><br>ML Research
 </td>
