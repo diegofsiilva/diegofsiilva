@@ -41,7 +41,7 @@ These are some of the companies and organizations I’ve created projects for as
 
 <td align="center" valign="top" width="140">
 <div style="height:110px; display:flex; align-items:center; justify-content:center;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" width="100" height="100" style="object-fit:contain;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScoavOsl8VNZ1Hvckru69Tet1JPFWuOYHYQ&s" width="70" height="70" style="object-fit:contain;">
 </div>
 <br>
 <b>Project:</b><br>Web Application
@@ -75,7 +75,7 @@ These are some of the companies and organizations I’ve created projects for as
 
 <td align="center" valign="top" width="140">
 <div style="height:110px; display:flex; align-items:center; justify-content:center;">
-<img src="https://github.com/user-attachments/assets/3dd11100-8e53-4bca-ad58-0c7c48a57f23" width="100" height="100" style="object-fit:contain;">
+<img src="https://github.com/user-attachments/assets/3dd11100-8e53-4bca-ad58-0c7c48a57f23" width="70" height="70" style="object-fit:contain;">
 </div>
 <br>
 <b>Project:</b><br>Algorithms
