@@ -4,13 +4,15 @@
 
 ###
 #  About Me:
- Passionate about technology, soccer, Formula 1.<br> Currently studying Computer Science at Inteli.<br> Always learning something new, and right now I’m learning about Optimization
+ Passionate about technology, soccer, formula 1.<br> Currently studying Computer Science at Inteli.<br> Always learning something new, and right now I’m learning about AWS
 
-#  Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,aws,docker,postgres,supabase,idea,vscode," />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Companies I’ve developed projects for
+### Companies I’ve developed projects for
 These are some of the companies and organizations I’ve created projects for as part of my portfolio.  
 <table align="center">
 <tr>
