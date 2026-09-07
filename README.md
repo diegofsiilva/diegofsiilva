@@ -1,9 +1,7 @@
 # Hey, I'm Diego
 ### Bachelor's in Computer Science
 
-
-###
-#  About Me:
+###  About Me:
  Passionate about technology, soccer, formula 1.<br> Currently studying Computer Science at Inteli.<br> Always learning something new, and right now I’m learning about AWS
 
 ### Tech Stack
