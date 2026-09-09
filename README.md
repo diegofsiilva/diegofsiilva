@@ -6,7 +6,7 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,py,aws,docker,postgres,supabase,idea,vscode," />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,aws,docker,postgres,supabase,terraform,kubernetes,idea,vscode," />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
