@@ -91,6 +91,14 @@ These are some of the companies and organizations I’ve created projects for as
 
 <td align="center" valign="top" width="140">
 <div style="height:110px; display:flex; align-items:center; justify-content:center;">
+<img src="https://github.com/user-attachments/assets/34794374-2903-41f5-9dbe-68247dae85a3" width="100" height="100" style="object-fit:contain;">
+</div>
+<br>
+<b>Project:</b><br>Compiler
+</td>
+
+<td align="center" valign="top" width="140">
+<div style="height:110px; display:flex; align-items:center; justify-content:center;">
 <img src="arton13446.png" width="100" height="100" style="object-fit:contain;">
 </div>
 <br>
